@@ -1,7 +1,7 @@
 # HappyNewYear
 ![Preview Animation](https://github.com/akoval29/HappyNewYear/blob/master/preview.gif)
 ## Features
-- Cute anamation =)
+- Cute animation =)
 ## Technologies Used
 - **HTML**
 - **CSS** 
